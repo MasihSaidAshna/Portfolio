@@ -1,0 +1,78 @@
+*{
+    margin: 2px;
+    padding: 2px;
+    box-sizing: border-box;
+    font-family: 'Helvetica Neue';
+    margin-bottom: 10px;
+    color: aliceblue;
+}
+
+#logo\=div{
+    width: 100%;
+    min-height: 50px;
+    background-color: #2f20b1;
+    padding-left: 2%;
+    padding-right: 2%;
+    line-height: 50px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#nav-div{
+    width: 100%;
+    min-height: 25px;
+    background-color: #2f20b1;
+    text-align: center;
+    line-height: 30px;
+}
+
+#banner-div{
+    width: 100%;
+    min-height: 100px;
+    background-color: #2f20b1;
+    text-align: center;
+}
+
+#main-section{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+#intro-div{
+    width: 60%;
+    min-height: 400px;
+    font-size: 20px;
+    background-color: #2f20b1;
+    margin-right: 10px;
+}
+
+#projects-div{
+    width: 40%;
+    min-height: 400px;
+    background-color: #2f20b1;
+}
+
+#Projects{
+    list-style: none;
+}
+
+#jobs-div{
+    width: 100%;
+    min-height: 50px;
+    background-color: #2f20b1;
+}
+
+#image-div{
+    width: auto;
+    min-height: 50px;
+    background-color: #2f20b1;
+}
+
+#footer-div{
+    width: auto;
+    min-height: 50px;
+    background-color: #2f20b1;
+}
+
+
